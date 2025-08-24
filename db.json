@@ -1,0 +1,86 @@
+{
+    "experiencia": [
+        {
+            "ano": "2025",
+            "empresa": "Stalse Analytics",
+            "cargo": "FRON-END DEVELOPER",
+            "atual": true
+        },
+        {
+            "ano": "2024 a 2024",
+            "empresa": "Brivia",
+            "cargo": "FRON-END DEVELOPER",
+            "atual": false
+        },
+        {
+            "ano": "2023 a 2024",
+            "empresa": "Aggrandize",
+            "cargo": "FRON-END DEVELOPER",
+            "atual": false
+        }
+    ],
+    "skills": [
+        {
+            "name": "HTML",
+            "level": 100
+        },
+        {
+            "name": "CSS",
+            "level": 100
+        },
+        {
+            "name": "JavaScript",
+            "level": 90
+        },
+        {
+            "name": "React",
+            "level": 80
+        },
+        {
+            "name": "TypeScript",
+            "level": 80
+        },
+        {
+            "name": "Next.js",
+            "level": 75
+        },
+        {
+            "name": "Tailwind CSS",
+            "level": 90
+        },
+        {
+            "name": "WordPress",
+            "level": 90
+        }
+    ],
+    "portfolio":[
+         {
+            "type": "WordPress",
+            "title": "Studio 27",
+            "technologies": ["HTML", "CSS", "JavaScript", "PHP"],
+            "link": "https://studiotwentyseven.com/",
+            "image": "/imagesPortfolio/studio27-port.jpg"
+        },
+        {
+            "type": "E-commerce",
+            "title": "Luiza Barcelos",
+            "technologies": ["HTML", "CSS", "JavaScript", "Knockout.js"],
+            "link": "https://www.luizabarcelos.com.br/",
+            "image": "/imagesPortfolio/luiza-port.jpg"
+        },
+        {
+            "type": "E-commerce",
+            "title": "Frigelar",
+            "technologies": ["HTML", "CSS/LESS", "JavaScript", "Oracle Commerce"],
+            "link": "https://www.frigelar.com.br/",
+            "image": "/imagesPortfolio/frigelar-port.jpg"
+        },
+        {
+            "type": "Plataforma",
+            "title": "Mercado Magistral",
+            "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+            "link": "https://www.infomerc.com.br/home",
+            "image": "/imagesPortfolio/mm-port.jpg"
+        }
+    ]
+}
